@@ -1,0 +1,628 @@
+<resources>
+    <string name="app_name">ECE S6</string>
+    <string name="action_info">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fullscreen">Time Table</string>
+    <string name="dummy_button">Back</string>
+
+    <string name="title_activity_scrolling">Syllabus</string>
+    <string name="depEC">"  Department of ECE GEC Kozhikkode"</string>
+    <string name="table_text">Teachers: \n \n
+
+         ANJ : Anjana Narayan \n
+         JCP : Jithesh CP \n
+         MK : Dr.Meenakshi K \n
+         MKV : Ahammed Muneer KV \n
+         MKB : Pradeep KB \n
+         RK : Remya Krishna \n
+         SKS : Shanthini KS \n
+         SM : Shajee Mohan BS \n
+         SVS : Dr.Sheeba VS \n \n \n \n \n
+
+        Subjects :  \n \n
+        BVD : Basics of VLSI Design \n
+        CS : Control Systems \n
+        DSP : Digital Signal Processing \n
+        MML : Microprocessors and Microcontrollers Lab \n
+        MP : Mini Project \n
+        OCN : Optical Communication \n
+        RPN : Radiation and Propagation \n
+        SAC : Satellite Communication \n \n \n
+
+    </string>
+
+
+
+   <string name="large_text">
+
+EC14 601: RADIATION AND PROPAGATION \n \n
+
+Teaching scheme Credits: 4 \n \n
+
+3 hours lecture and 1 hour tutorial per week \n \n
+
+Objective \n
+* To impart the basic concepts of radiating structures and their arrays \n
+* To give understanding about analysis and synthesis of arrays \n
+* To give idea about basic propagation mechanisms \n \n
+
+Module I (13 hours) \n \n
+
+Retarded potentials: Radiation, retarded potential -Radiation from an A.C current elementmonopoles
+and dipoles-power radiated from a dipole
+Antenna Parameters: Introduction, Isotropic radiators, Radiation pattern, Gain -radiation intensity-
+Directive gain, Directivity, antenna efficiency - Reciprocity theorem and its applications,
+effective aperture, radiation resistance, terminal impedance, noise temperature, elementary ideas
+about self and mutual impedance, front-to-back ratio, antenna beam width, antenna bandwidth,
+antenna beam efficiency, antenna beam area or beam solid angle, polarization, antenna temperature.
+         \n \n
+Module II (13 hours)
+         \n \n
+Antenna Arrays: Introduction, various forms of antenna arrays, arrays of point sources, non-isotropic
+but similar point sources, multiplication of patterns, arrays of n-isotropic sources of equal amplitude
+and spacing (Broad-side and End-fire array cases), array factor, directivity and beam width, array of nisotropic
+sources of equal amplitude and spacing end-fire array with increased directivity, scanning
+arrays, Dolph-Tchebysceff arrays, tapering of arrays, binomial arrays, continuous arrays, rectangular
+arrays, superdirective arrays.
+         \n \n
+
+Module III (13 hours)
+         \n \n
+VLF, LF and MF antennas- Introduction, effects of ground on antenna performance, effects of
+antenna height, efficiency of electrically short antenna, medium frequency antennas, high
+frequency antennas, fundamental antenna (i.e. half wave dipole or dipole antenna), long wire
+antenna, V and inverted V antenna,
+Rhombic antenna, traveling wave antenna, radio direction finders, loop antennas,
+VHF, UHF, SHF Antennas- Introduction. Folded dipole antenna, Yagi-Uda antenna, and helical
+antenna, slot antenna, microstrip or patch antennas, and turnstile antenna, frequency independent
+antennas- log periodic antenna, and microwave antennas- Microstrip antenna, fractal antenna.
+         \n \n
+Module IV (13 hours)
+         \n \n
+Factors involved in the propagation of radio waves: the ground wave-Reflection of radio waves by
+the surface of the earth-space wave propagation-considerations in space wave propagationatmospheric
+effects in space wave propagation-ionosphere and its effects on radio waves -mechanism
+of ionosphere propagation-refraction and reflection of sky waves by ionosphere-ray paths-skip
+distance-maximum usable frequency-vertical and oblique incidence-fading of signals - selective
+fading-diversity reception, Duct Propagation.
+         \n \n
+Text books: \n \n
+1. Electromagnetic waves and Radiating Systems Jordan and Balman, Prentice Hall India \n
+2. Warren L Stutzman and Gary A Thiele, -Antenna Theory and Design, 2ndEd, John \n
+Wiley and Sons Inc. 1998 \n
+3. Constantine. A. Balanis: -Antenna Theory- Analysis and Design, Wiley India, 2nd
+Edition, 2008
+ \n \n
+Reference Books
+         \n \n
+1. Kraus, -Antennas, Tata McGraw Hill, NewDelhi, 3rd Edition, 2003 \n
+Internal Continuous Assessment (Maximum Marks-50) \n
+         \n
+60% - Tests (minimum 2) \n
+30% - Assignments (minimum 2) such as home work, problem solving, group discussions, \n
+quiz, literature survey, seminar, term-project, software exercises, etc.
+10% - Regularity in the class \n \n
+University Examination Pattern \n \n
+
+PART A: Analytical/problem solving SHORT questions 8x 5 marks=40 marks
+Candidates have to answer FIVE questions out of
+EIGHT. There shall be minimum of TWO and
+maximum of THREE questions from each module with
+total TEN questions. \n \n
+
+PART B: Analytical/Problem solving DESCRIPTIVE questions 4 x 15 marks=60 marks
+Two questions from each module with choice to answer
+one question. \n \n
+Maximum Total Marks: 100
+         \n \n \n
+
+
+EC14 602 OPTICAL COMMUNICATION \n \n
+
+Teaching scheme Credits: 4 \n \n
+
+3 hours lecture and 1 hour tutorial per week \n \n
+
+Objective \n
+
+* To provides the basic theory of optical fibres and principle of various components in optical
+communication system. \n
+
+* To give basic idea about system aspects and design concepts of fiber optical system\n0
+Module I (14 hours) \n \n
+
+Solution to Maxwells equation in a circularly symmetric step index optical fiber single mode and
+multimode fibres-numerical Aperture. Acceptance angle-concept of V number graded index fibrespolarization
+maintaining fibres-attenuation mechanisms in fibres-dispersion in single mode and
+multimode fibres-dispersion shifted and dispersion flattened fibres
+         \n \n
+Module II (10 hours)
+         \n \n
+Optical source-LED and laser diode- -concepts of line width-phase noise-switching and modulation
+characteristics-typical LED and LD structures-laser types-optical detectors- pn pin avalanche
+Photodiode-principles of operation concepts of responsivity and quantum efficiency
+         \n \n
+Module III (14 hours)
+         \n \n
+Intensity modulated direct detection systems-quantum limit to receiver sensitivity-detected signal and
+shot noise ISI and equalization-coherent systems-homodyne and heterodyne systems-system
+structures- degradation due to fiber dispersion-degradation induced by non-linear effects in fiber
+propagation
+         \n \n
+Module IV (14 hours)
+         \n \n
+Optical amplifiers-semiconductor amplifier-rare earth doped fiber amplifier (with special reference to
+erbium doped fibers)  broad band EDFA Raman amplifier- Brillouin amplifier-principles of
+operation-,WDM and DWDM Optical System, Optical switches, Isolators, Circulators and
+attenuators. Optical couplers and splitters-Optical Networks  SONET/SDH
+ \n \n
+Text Books \n \n
+1. G. Keiser ,Optical Fiber Communication, 3rd Edition, Tata Mc Graw Hill new delhi,
+2000 \n
+2. John M.Senior . Optical Fiber Communication Principles and Practice ,PHI
+Publication \n
+3 D.F. Mynbaev and L. Scheiner ,Fiber Optic Communication Techniques, Person
+Education New Delhi \n \n
+Reference Books \n
+1. Optical Electronics:Ajoy Ghatak, K Thyagarajan \n
+2. Textbook on Optical Fiber Communicaton and its Applications:S.C.Gupta \n \n
+Internal Continuous Assessment (Maximum Marks-50) \n
+60% - Tests (minimum 2) \n
+30% - Assignments (minimum 2) such as home work, problem solving, group discussions,
+quiz, literature survey, seminar, term-project, software exercises, etc. \n
+10% - Regularity in the class \n
+University Examination Pattern \n \n
+PART A: Analytical/problem solving SHORT questions 8x 5 marks=40 marks
+Candidates have to answer EIGHT questions out of
+TEN. There shall be minimum of TWO and maximum
+of THREE questions from each module with total TEN
+questions. \n
+PART B: Analytical/Simple Problem solving DESCRIPTIVE
+questions
+Two questions from each module with choice to answer
+one question.
+4 x 15 marks=60 marks
+Maximum Total Marks: 100
+ \n \n \n
+
+
+
+EC14 603 VLSI DESIGN \n \n
+
+Teaching scheme Credits: 4 \n \n
+3 hours lecture and 1 hour tutorial per week \n \n
+Objective
+* To study the issues in devices used for VLSI design
+* To introduce the various steps in IC fabrication , starting from the raw material to the
+finished product as well as physical principles involved in these processes
+ \n \n
+Module I (13 hours)
+         \n \n
+Short and narrow channel effects in MOS transistor (MOST) sub threshold conduction body effect
+- channel length modulation - drain induced barrier lowering - hot carrier effects - velocity saturation
+of charge carriers
+Scaling of MOST - constant voltage and constant field scaling - digital MOSFET model - Estimation
+of interconnect parasitics and calculation of interconnect delay.
+MOS inverters - resistive load, Saturated NMOS load, Depletion NMOS load, pseudo MOS - CMOS
+inverters-robustness and performance capacitance components - charge sharing power dissipation
+- CMOS ring oscillator
+         \n \n
+Module II (13 hours)
+         \n \n
+CMOS logic Styles - Design and implementation of Adder Full adder, Dynamic
+adder, Carry bypass adder, Carry select adder, Square root carry selector adder, Carry look ahead
+adder - Multipliers, and array multipliers - Multiplexers - Memory elements- SRAM, DRAM,
+ROM, Sense amplifiers Differential, Single ended
+         \n \n
+Module III (13 hours)
+         \n \n
+Wafer processing diffusion-Ficks Law analytic solutions for predeposition and drive-in diffusion
+Oxidation Deal -Grove model Ion implantation-vertical and lateral projected ranges-channelingstopping
+power Optical lithography-optical exposures-modulation transfer function-proximity and
+projection printing Photoresists - types-contrast curves-Etching-wet, plasma and ion etching-
+Epitaxial growth MOCVD and molecular beam epitaxy.
+         \n \n
+Module IV (13hours)
+         \n \n
+Device isolation-contacts and metallization-junction and oxide isolation LOCOS- SILO-SWAMI
+process-trench isolation silicon on insulator isolation - schottky contacts-implanted ohmic contactsalloyed
+contacts-refractory metal contact technology-multi level metallization
+CMOS- p well process twin tub process
+Layout and design rules ( Lambda and Mu based) - layout using cell hierarchy - layout of MOSFET stick
+diagram - layout of the inverter , NOR and NAND gates Layout guide lines
+ \n \n
+Text Books \n \n
+1. Weste and Harris, CMOS VLSI Design, Pearson Education \n
+2. Plummer, Deal and Griffin, Silicon VLSI Technology, Pearson Education \n
+3. Rabaey J.M., Digital Integrated Circuits - A Design Perspective, Pearson Education \n
+4. Weste and Eshraghian , Principles of CMOS VLSI Design, Addison Wesley \n
+5. S K Gandhi, VLSI Fabrication Principles., John Wiley \n
+6. Sung-Mo Kang and Yusuf Leblebici, CMOS Digital Integrated Circuits - Analysis and Design,
+McGrawHill \n
+7. Nagchoudari., Principles of Microelectronic Technology, Wheeler Publishing \n \n
+Reference Books \n
+1. Yuan Taur and Ning T.H., Fundamentals of Modern VLSI Devices, Cambridge Univ.
+Press \n
+2. Baker. Li and Boyce, CMOS - Circuit Design, Layout and Simulation, PHI \n
+3. Sze S M, VLSI Technology, McGrawHill \n
+4. Ken Martin, Digital Integrated Circuit Design, Oxford Univ. Press \n
+5. Eshraghian and Pucknell,, Essentials of VLSI Circuits and Systems, PHI \n \n
+Internal Continuous Assessment (Maximum Marks-50) \n
+60% - Tests (minimum 2) \n
+30% - Assignments (minimum 2) such as home work, problem solving, group discussions,
+quiz, literature survey, seminar, term-project, software exercises, etc. \n
+10% - Regularity in the class \n \n
+University Examination Pattern \n
+PART A: Analytical/problem solving SHORT questions 8x 5 marks=40 marks
+Candidates have to answer EIGHT questions out of
+TEN. There shall be minimum of TWO and maximum
+of THREE questions from each module with total TEN
+questions. \n
+PART B: Analytical/ DESCRIPTIVE questions 4 x 15 marks=60 marks
+Two questions from each module with choice to answer
+one question. \n
+Maximum Total Marks: 100
+ \n \n \n
+
+
+EC14 604: DIGITAL SIGNAL PROCESSING
+         \n \n
+Teaching scheme Credits: 4 \n \n
+3 hours lecture and 1 hour tutorial per week \n \n
+Objectives \n
+* To impart basic ideas (i) in the transforms used in digital domain (ii) in the
+design and hardware realization of digital filters
+         \n \n
+Module I (13 hours)
+         \n \n
+Review of Discrete Time Fourier series and Discrete Time Fourier Transform-Frequency do- main
+sampling- Discrete Fourier Transform-Properties-Circular convolution-Linear convolution using DFTLinear
+filtering of long data sequences- Overlap add and overlap save methods- Computation of DFTDecimation
+in Time and Decimation in Frequency algorithms.
+         \n \n
+Module II (13 hours)
+         \n \n
+Structures for realization of discrete time systems-Signal flow graph representation- structures for
+FIR and IIR systems-direct form, cascade form, parallel form-lattice and transposed structures-
+Representation of numbers and errors due to rounding and truncation-Quantization of filter coefficientsround
+off effects in digital filters-Limit cycle oscillations, scaling to prevent overflow
+         \n \n
+Module III (13 hours)
+         \n \n
+Design of Digital filters-Types of digital filters -FIR and IIR filters -specifications of digital Filters-
+Design of FIR filters -Linear phase Characteristics-Window method, Optimal method and Frequency
+Sampling method-Design of IIR filters from analog filters -Impulse invariant and
+bilinear transformation methods- Frequency transformation in the analog and digital domains
+         \n \n
+Module IV (13 hours)
+         \n \n
+Computer Architectures for signal processing-Harvard Architecture, Pipelining, Multiplier-
+Accumulator, Special Instructions for DSP, extended parallelism-General Purpose DSP Processors-
+Implementation of DSP Algorithms for various operations-Special purpose DSP hardware-Hardware
+Digital filters and FFT processors-Case study and overview of TMS320 series processor, ADSP
+21XX processor
+         \n \n
+Text Books \n \n
+1. Oppenheim A. V., Schafer R. W., Discrete-Time Signal Processing, Prentice Hall/Pearson. \n
+2. John G. Proakis, Dimitris G. Manolakis, Digital Signal Processing: Principles,
+Algorithms and Applications, Prentice Hall of India Pvt. Ltd., 1997. \n
+3. Emmanuel C. Ifeacher, Barry W. Jervis, Digital Signal Processing: A Practical
+Approach, Pearson Education 2004 \n
+4. Li Tan,DSP-Fundamentals and Applications, Elsevier, New Delhi, 2008 \n
+5. Roberto Cristi, Modern Digital Signal Processing, Cengage learning India pvt. Ltd.,2004,4th
+Indian reprint 2009, New Delhi
+ \n \n
+Reference Books \n \n
+1. Mitra S. K., Digital Signal Processing : A Computer Based Approach, Tata McGraw-Hill \n
+2. B Venkataramani and M.Bhaskar, Digital Signal Processors-Architecture,3. Programming and
+Applications, Tata Mcgraw Hill \n
+3. Dag Strannbby and William Walker,DSP and Applications. Elsevier, New Delhi, 2nd Ed. 2004 \n
+4. Vinay K Ingle, John G Proakis, DSP- A MATLAB based approach ,Cengage learning India \n
+5. Sen M. Kuo and Woon-Seng Gem, Digital Signal Processors, Pearson \n \n
+Internal Continuous Assessment (Maximum Marks-50) \n
+60% - Tests (minimum 2) \n
+30% - Assignments (minimum 2) such as home work, problem solving, group discussions,
+quiz, literature survey, seminar, term-project, software exercises, etc. \n
+10% - Regularity in the class \n
+University Examination Pattern \n \n
+PART A: Analytical/problem solving SHORT questions 8x 5 marks=40 marks
+Candidates have to answer EIGHT questions out of
+TEN. There shall be minimum of TWO and maximum
+of THREE questions from each module with total TEN
+questions. \n
+PART B: Analytical/Problem solving DESCRIPTIVE questions 4 x 15 marks=60 marks
+Two questions from each module with choice to answer
+one question. \n
+Maximum Total Marks: 100 \n \n \n
+
+
+
+EC14 605: CONTROL SYSTEMS
+         \n \n
+Teaching scheme Credits: 4
+         \n \n
+3 hours lecture and 1 hour tutorial per week \n \n
+Objective \n
+* To impart the basic theory behind the analysis of continuous and discrete
+Systems in time and frequency domains \n
+* To introduce concepts about the state space modeling of systems. \n \n
+Module I (13 hours)
+         \n \n
+General Schematic Diagram of Control Systems-Open loop and Closed loop systems  Merits and
+demerits-Concepts of feed back Role of computers in Automatic Control Modeling of
+Continuous Time Systems. Basic ideas of Functions of Complex Variables ,Mapping
+Process, Analytic functions, poles and zeros.
+Transfer functions-block diagrams-order and type-signal flow graph Masons Gain formula-Block
+diagram reduction using direct techniques and signal flow graphs examples-derivation of transfer
+function of simple systems from physical relations -low pass RLC series network â€“spring mass
+damper DC servomotor for position and speed control low pass active filter
+         \n \n
+Module II (13 hours)
+         \n \n
+1. Time Domain analysis:
+Analysis of Continuous Time systems-Transient and steady State Responses-Standard Test Signals-
+Response comparisons for various Root locations in the S-plane-Time Domain Solutions of First
+order systems- Step Response of Second order system Time domain specifications Relationships
+between Damping ratio and the amount of Overshoot for a second Order system - Effects of
+derivative and Integral Control on the Transient response - Performance of feed back Control systems
+- Steady state Response-steady state error computations of steady state error error constants -
+Concepts of Stability Routh-Hurwitz Criterion - Construction of root locus.
+2. Frequency Domain Analysis:
+Frequency Domain Plots-Polar and Bode Plots-Theory of Nyquist Criterion Frequency Response
+characteristics- Frequency domain specifications- computation of gain and phase Margins from Bode
+Plot - Theory of Lag,Lead, and Lag-Lead
+compensators.
+         \n \n
+Module III (13 hours)
+         \n \n
+Modeling of discrete-time systems-sampling-mathematical derivations for sampling-sample and hold-
+-solutions of difference Equations using Z-transforms-example of sampled data systems mapping
+between s plane and z plane cyclic and multi-rate sampling (definitions only) analysis of discrete
+time systems-pulse transfer function-examples-stability Jury˜s criterion bilinear transformationstability
+analysis after bilinear transformation stability analysis Routh-Hurwitz techniques
+         \n \n
+Module IV (13 hours)
+         \n \n
+State Space Analysis: Introduction-Definitions and explanations of the terms STATE, STATE
+VARIABLES, STATE VECTOR AND STATE SPACE-State Space Representations of Linear
+Time-invariant System with i) single input and output ii) multi variable systems iii) SISO System in
+which forcing
+Function involves-Eigen values-phase variable and Diagonal forms-Invariance of Eigen values under
+linear transformation-Diagonilisation
+Solutions of Linear Time-invariant State Equations-Homogeneous and Non-homogeneous
+case(example up to second order only)- Matrix Exponential- Laplace Transform approach to the
+solutions of state equations-State Transition Matrix-properties.
+State Space representation of Discrete Time Systems-Relation between Transfer function /Transfer
+
+Matrix and State Space models for continuous and discrete cases.
+         \n \n
+Text Books \n \n
+1. Ogata K. -Modern Control Engineering, Prentice Hall of India \n
+2. M Gopal,Control systems- Principles and Design, Tata McGraw Hill, New Delhi, 3rd Ed. 2008 \n
+3. B.C Kuo.,Automatic Control System, Prentice Hall of India \n
+4. Nagarath I. J and Gopan M.,Control System Engineering,Wiley India Ltd
+Reference Books \n \n
+1. Ziemer R.E.,Tranter W.H and Fanin D.R.,Signals and Systems Pearson Education Asia \n
+2. Dorf R.C and Bishop R.H.,Modern Control Systems,Addison Wesley \n
+3. Ogata K.,Discrete Time Control Systems,Pearson Education Asia, 2007 \n
+4. Kuo B.C .,Digital Control Systems Oxford University Press \n
+Internal Continuous Assessment (Maximum Marks-50) \n \n
+60% - Tests (minimum 2) \n
+30% - Assignments (minimum 2) such as home work, problem solving, group discussions, quiz,
+literature survey, seminar, term-project, software exercises, etc. \n
+10% - Regularity in the class \n
+University Examination Pattern \n \n
+PART A: Analytical/problem solving SHORT questions 8x 5 marks=40 marks
+Candidates have to answer EIGHT questions out of
+TEN. There shall be minimum of TWO and maximum
+of THREE questions from each module with total TEN
+questions. \n
+PART B: Analytical/Problem solving DESCRIPTIVE questions 4 x 15 marks=60 marks
+Two questions from each module with choice to answer
+one question. \n
+Maximum Total Marks: 100
+ \n \n \n
+
+
+
+
+EC14 606 SATELLITE COMMUNICATION
+         \n \n
+Teaching scheme Credits: 4 \n
+3 hours lecture and 1 hour tutorial per week \n \n
+Objectives \n
+* To impart the basic concepts of satellite communication and systems \n
+* To develop understanding about the link design and the latest trends in satellite
+communication \n \n
+Module I (13 hours)
+         \n \n
+Satellite Orbits: Orbital mechanics-Kepler˜s laws, locating the satellite in orbit,orbital elements; look
+angle determination-subsatellite point, azimuth and elevation angle calculation;orbital perturbationslongitudinal
+and inclination changes; launches and launch vehicles-ELVs, placing satellites into
+geostationary orbit;orbital effects in communication system performance-doppler shift, range
+variations, solar eclipse, sun transit outage
+         \n \n
+Module II (13 hours)
+         \n \n
+Communication Satellites- Satellite subsystem; Attitude and orbit control system (AOCS);
+Telemetry, Tracking, Command and Monitoring (TTC and M); power systems; communications
+subsystem-description, transponders; satellite antennas-basic antenna types, satellite antennas
+in
+practice
+         \n \n
+Module III (13hours)
+         \n \n
+Satellite link design and Satellite access- Basic transmission theory, system noise temperature and
+G/T ratio; Downlink design-link budget; Uplink design; design for specified C/N, uplink and
+downlink attenuation in rain, communication link design procedure; system design examples.
+         \n \n
+Module IV(13 hours)
+         \n \n
+Multiple access schemes-FDMA, TDMA, CDMA, DAMA; VSAT systems-basic techniques, VSAT
+earth station engineering, system design; DBS systems-C-band and Ku0band home TV, digital DBS;
+satellite mobile systems; GPS
+         \n \n
+Text Books
+         \n \n
+1. Timothy Pratl, Charles Bostian and Jeremy Allnutt, Satellite communications, 2nd
+Ed., Wiley India, New Delhi, 2008 \n
+2. Dennis Roddy, Satellite Communications, 4th Ed., Tata Mc-Graw-Hill, New Delhi, 2009 \n
+3. Tri T. Ha, Digital Satellite Communications , 2nd Ed., Tata Mc-Graw-Hill, New
+Delhi, 2009 \n \n
+Internal Continuous Assessment (Maximum Marks-50)
+60% - Tests (minimum 2)
+30% - Assignments (minimum 2) such as home work, problem solving, group discussions,
+quiz, literature survey, seminar, term-project, software exercises, etc.
+10% - Regularity in the class
+ \n \n
+University Examination Pattern \n
+PART A: Analytical/problem solving SHORT questions 8x 5 marks=40 marks
+Candidates have to answer EIGHT questions out of
+TEN. There shall be minimum of TWO and maximum
+of THREE questions from each module with total TEN
+questions. \n
+PART B: Analytical/ DESCRIPTIVE questions 4 x 15 marks=60 marks
+Two questions from each module with choice to answer
+one question. \n
+Maximum Total Marks: 100 \n
+ \n \n
+
+
+EC14 607(P) MICROPROCESSOR AND MICROCONTOLLER LAB
+         \n \n
+Teaching Scheme Credits: 2 \n
+3 hours practical per week \n
+1. 8086 kit familiarization and basic experiments \n
+2. Programming exercise using BCD and Hexadecimal numbers \n
+3. Programming exercise : sorting ,searching and string \n
+4. Interfacing with A/D and D/A converters \n
+5. Interfacing with stepper motors \n
+6. IBM PC programming : Basic programs using DOS and BIOS interrupts \n
+7. Interfacing with PC: Serial communication and Parallel printer interfacing \n
+Interfacing experiments using 8051 \n \n
+1. Parallel interfacing I/O ports(Matrix keyboards) \n
+2. Serial communication with PC \n
+3. Parallel interfacing LCD \n
+4. Interfacing with serial EEPROM \n
+Note: A minimum of 10 experiments must be conducted \n \n
+Internal Continuous Assessment (Maximum Marks-50) \n
+60%-Laboratory practical and record \n
+30%- Test/s \n
+10%- Regularity in the class \n
+Semester End Examination (Maximum Marks-100) \n
+70% - Procedure, conducting experiment, results, tabulation, and inference \n
+20% - Viva voce \n
+10% - Fair record \n
+ \n \n \n
+EC09 608 (P) MINI PROJECT \n \n
+Teaching scheme Credits: 2 \n
+3 hours practical per week \n \n
+Objectives \n
+* To estimate the ability of the student in transforming the theoretical knowledge
+studied so far into a working model of a Electronic system. \n
+* For enabling the students to gain experience in organisation and implementation
+of a small project and thus acquire the necessary confidence to carry out main
+project in the final year. \n \n
+In this practical course, each group consisting of three/four members is expected to
+design and develop a moderately complex electronic system with practical applications; this
+should be a working model. The basic concepts of product design may be taken into
+consideration while designing the project. \n
+Internal continuous assessment will be carried out by the Guide. End Semester
+evaluation of individual student will be carried out by a committee consisting of minimum
+three faculty members. Students have to submit a report on the mini project and demonstrate
+the mini project before the evaluation committee
+No external Examiner is required for mini project evalulation. \n \n
+Internal Continuous Assessment by the Guide (Maximum marks - 50) \n
+40% - Design and development \n
+30% - Final result and Demonstration \n
+20% - Report \n
+10% - Regularity in the class \n \n
+Semester End Examination (Maximum Marks-100) \n
+60% - Demonstration and Presentation of mini project \n
+30% - Viva voce \n
+10% - Final Report \n
+ \n \n
+
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_table">TimeTable</string>
+    <string name="title_activity_stud">Students</string>
+    <string name="stud_text">
+ \n
+R.No \t\t Name   \n     \n
+1 . \t\t 	Abijith P \n
+2 . \t\t 	Adithya U R \n
+3 . \t\t 	Aiswarya K H \n
+4 . \t\t 	Anaswara P R \n
+5 . \t\t 	Aneesa C K \n
+6 . \t\t 	Anjalose Johnson \n
+7 . \t\t 	Anjitha S Vijayan \n
+8 . \t\t 	Anjushree B P \n
+9 . \t\t 	Aparna K U \n
+10 . \t\t 	Arthidh G K \n
+11 . \t\t 	Ashfaque B \n
+12 . \t\t 	Asika V M \n
+13 . \t\t 	Asker Ali \n
+14 . \t\t 	Aswani V T \n
+15 . \t\t 	Aswathy S \n
+16 . \t\t 	Athira Sahadevan \n
+18 . \t\t 	Clifiya Rose Maria \n
+19 . \t\t 	Darshan Dayanand \n
+20 . \t\t 	Deepthi D S \n
+21 . \t\t 	Drisya K \n
+22 . \t\t 	Gokul V \n
+23 . \t\t 	Haritha M \n
+24 . \t\t 	Jabir Hussain C \n
+25 . \t\t 	Jason J Pulikkottil \n
+26 . \t\t 	Jimna C \n
+27 . \t\t 	Jumana Jabin M K \n
+28 . \t\t 	KS Nithin \n
+30 . \t\t 	Leo Felix Thomas \n
+31 . \t\t 	Mable Liza Mathew \n
+32 . \t\t 	Muhammed Fasi O \n
+33 . \t\t 	Nayana R \n
+34 . \t\t 	Nthin M K \n
+35 . \t\t 	Priya K \n
+36 . \t\t 	Rajisha Rajamohanan \n
+37 . \t\t 	Reshma N \n
+38 . \t\t 	Sachin K Mohan \n
+40 . \t\t 	Sangeetha Subramanian \n
+41 . \t\t 	Setna Dominic \n
+42 . \t\t 	Shafna K \n
+43 . \t\t 	Shyam N \n
+44 . \t\t 	Sivadeth S \n
+45 . \t\t 	Sona K \n
+46 . \t\t 	Sreelakshmi S \n
+47 . \t\t 	Thamjeeda K M \n
+48 . \t\t 	Thushara A \n
+49 . \t\t 	Varun T R \n
+50 . \t\t 	Vipindas Y \n
+51 . \t\t 	Vishnu Prasad P S \n
+52 . \t\t 	Vishnu Sarath P \n
+53 . \t\t 	Vishnu V \n
+54 . \t\t 	Yethin P \n
+55 . \t\t 	Athira AK \n
+56 . \t\t 	Devaprasad K K \n
+57 . \t\t 	Prathiibha V V \n
+58 . \t\t 	Santhimol M P \n
+59 . \t\t 	Sruthi P \n
+60 . \t\t 	Aishwarya Sankaran \n
+61 . \t\t 	Amrutha A \n
+62 . \t\t 	Gayathri C.P \n
+63 . \t\t 	Jinishiya M \n
+64 . \t\t 	Sahla P P \n
+65 . \t\t 	Sayooj C \n
+66 . \t\t 	Abhijith M \n
+67 . \t\t 	Abin T V \n
+68 . \t\t 	Jishnulal T T \n
+69 . \t\t 	Khaleel Rahman \n
+70 . \t\t 	Mehjabin Farsana P \n
+71 . \t\t 	Rashid K \n \n \n
+
+
+
+    </string>
+    <string name="title_activity_ttable">TimeTable</string>
+    <string name="title_activity_time_table">TimeTable</string>
+</resources>
